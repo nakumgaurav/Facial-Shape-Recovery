@@ -1,11 +1,13 @@
-Copyright (C) 2014 Minsik Lee
+Copyright (C) 2017 Gaurav Nakum (Indian Institute of Technology Guwahati)
 
-    Graduate School of Convergence Science and Technology, AICT
-    Seoul National University, Korea.
+This project was completed at Electrical Engineering Department of Hanyang University, South Korea under the mentorship of:
+Minsik Lee, Professor, Electrical Engineering, Hanyang University
+Frank Chung-Hoon Rhee, Professor, Electrical Engineering, Hanyang University
+Nikhil Yadala, Computer Science and Engineering, Indian Institute of Technology Guwahati
 
 This code is an implementation of the methods described in:
 
-[1] Gaurav Nakum and Nikhil Yadala
+[1] Gaurav Nakum and Nikhil Yadala,
     "Fast Facial Shape Recovery From a Single Image With General, Unknown Lighting by Using General Type-2 Fuzzy
     Logic and Tensor Representation," Pattern Recognition, vol. 44, no. 7, pp. 1487-1496, Jul. 2011.
 [2] Minsik Lee and Chong-Ho Choi,
@@ -39,7 +41,7 @@ new results to:
 
     nakumgaurav25@gmail.com
 
-CONTENTS:
+CONTENTS: (will be updated soon)
 
     README.txt:                         This file.
     gpl.txt:                            License information.
