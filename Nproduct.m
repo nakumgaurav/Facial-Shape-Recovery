@@ -1,8 +1,4 @@
 function B = Nproduct(A, M, k)
-% Mode-k product (B = A x_k M)
-%
-% Implemented by Minsik Lee (mlee.paper@gmail.com)
-% Last update: 2014-03-19
 
 
 nt = size(A);
