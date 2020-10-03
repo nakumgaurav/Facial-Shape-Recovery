@@ -7,19 +7,17 @@ Nikhil Yadala, Computer Science and Engineering, Indian Institute of Technology 
 
 This code is an implementation of the methods described in:
 
-[1] Gaurav Nakum and Nikhil Yadala,
-    "Fast Facial Shape Recovery From a Single Image With General, Unknown Lighting by Using General Type-2 Fuzzy
-    Logic and Tensor Representation," Pattern Recognition, vol. 44, no. 7, pp. 1487-1496, Jul. 2011.
-[2] Minsik Lee and Chong-Ho Choi,
+
+[1] Minsik Lee and Chong-Ho Choi,
     "Fast Facial Shape Recovery From a Single Image With General, Unknown Lighting by Using Tensor Representation,"
     Pattern Recognition, vol. 44, no. 7, pp. 1487-1496, Jul. 2011.
-[3] Minsik Lee and Chong-Ho Choi,
+[2] Minsik Lee and Chong-Ho Choi,
     "A Robust Real-Time Algorithm for Facial Shape Recovery From a Single Image Containing Cast Shadow Under General, Unknown Lighting,"
     Pattern Recognition, vol. 46, no. 1, pp. 38-44, Jan. 2013.
-[4] Minsik Lee and Chong-Ho Choi,
+[3] Minsik Lee and Chong-Ho Choi,
     "Real-time Facial Shape Recovery From a Single Image under General, Unknown Lighting by Rank Relaxation,"
     Computer Vision and Image Understanding, vol. 120, pp. 59-69, Mar. 2014.
-[5] Minsik Lee,
+[4] Minsik Lee,
     "Facial Shape Recovery from a Single Image with General, Unknown Lighting,"
     Ph.D. dissertation, Seoul National University, Feb. 2012.
 
